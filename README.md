@@ -1,15 +1,12 @@
-# Thema des Kapitels
+# Kompetenzcheck - Arbeit mit Datenbanken
 
 ## Lernziele
-Der\*die Teilnehmer\*in kann nach erfolgreicher Absolvierung dieses Themas:
-- erklären, wie ein Programm mit einer Datenbank arbeitet (Begriffe wie Connection, Statement, ...)
-- ein Programm erstellen, das Daten in einer Datenbank (z.B. MySQL, Oracle, ...) verwaltet (INSERT, UPDATE, SELECT, DELETE, aber auch CREATE TABLE, CREATE DATABASE,ALTER TABLE, ...)
-- seinen/ihren Code erklären
+Der:die Teilnehmer:in kann nach erfolgreicher Absolvierung dieses Themas:
+- Erklären, wie ein Programm mit einer Datenbank arbeitet (Begriffe wie Connection, Statement, ...)
+- Ein Programm erstellen, das Daten in einer Datenbank (z.B. MySQL, Oracle, ...) verwaltet (INSERT, UPDATE, SELECT, DELETE, aber auch CREATE TABLE, CREATE DATABASE,ALTER TABLE, ...)
+- Klassen verwenden, welche Frontend, Business Logic und Persistierung trennen.
+- Klassen erstellen, welche die Business Logic unterstützen statt 1:1 den Aufbau der Datenbank nachzubilden.
 
-Weiters hat der\*die Teilnehmer\*in:
-- in seinem Code Exceptions ordentlich abgefangen
-- entsprechende Unittests erstellt, um die Methoden auf Funktionalität zu prüfen
-- seinen Code in GitHub einchecken
 
 ## Inhaltsverzeichnis
 

@@ -1,4 +1,4 @@
-# Datenbanken - Kompetenzcheck
+# Kompetenzcheck - Arbeit mit Datenbanken
 
 ## Aufgabe: Personenverwaltung mit Datenbank
 
@@ -9,3 +9,14 @@ Erweitere deine Personenverwaltung (aus J-CS-11-Objektorientierung-Kompetenzchec
 Das Design Data Access Object ist zum Standard in Bezug auf Datenbankanbindung geworden. Gründe dafür sind:
 - besser Strukturierung und Wartbarkeit des Codes
 - Trennung von Persistierung und Business Logic
+
+### Abnahmekriterien
+
+Der:die Teilnehmer:in hat:
+- Die entsprechenden Klassen erstellt und die nötigen Methoden implementiert.
+- Frontend, Business Logic und Datenbankzugriffe ordentlich getrennt.
+- Die Klassen seiner Objekte spezifisch für seine Business Logic erstellt (nicht 1:1 aus der Datenbankstruktur übernommen).
+- Ein Programm erstellt, das alle oben angeführten Anforderungen erfüllt.
+- in seinem:ihrem Code Exceptions ordentlich abgefangen
+- entsprechende Unittests erstellt, um die Methoden auf Funktionalität zu prüfen
+- seinen:ihren Code in GitHub eingecheckt
