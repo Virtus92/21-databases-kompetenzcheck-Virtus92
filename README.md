@@ -10,4 +10,4 @@ Der:die Teilnehmer:in kann nach erfolgreicher Absolvierung dieses Themas:
 
 ## Inhaltsverzeichnis
 
-1. [Kompetenzcheck](01-kompetenzcheck.md)
+1. [Kompetenzcheck](content/01-kompetenzcheck.md)
