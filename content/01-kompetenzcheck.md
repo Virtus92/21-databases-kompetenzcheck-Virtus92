@@ -14,7 +14,7 @@ Das Design Data Access Object ist zum Standard in Bezug auf Datenbankanbindung g
 
 Der:die Teilnehmer:in hat:
 - Die entsprechenden Klassen erstellt und die nötigen Methoden implementiert.
-- Frontend, Business Logic und Datenbankzugriffe ordentlich getrennt (MVC-, DAO- und Singleton-Design Patterns).
+- Frontend, Business Logic und Datenbankzugriffe ordentlich getrennt (UI/Business Logic/Persistierung, DAO- und Singleton-Design Patterns).
 - Die Klassen seiner Objekte spezifisch für seine Business Logic erstellt (nicht 1:1 aus der Datenbankstruktur übernommen).
 - Ein Programm erstellt, das alle oben angeführten Anforderungen erfüllt.
 - in seinem:ihrem Code Exceptions ordentlich abgefangen
